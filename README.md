@@ -6,6 +6,7 @@ Este repositório é a base documental inicial de uma plataforma empresarial mul
 - [Carta e arquitetura da plataforma](docs/01-PLATAFORMA-MESTRE.md)
 - [Governança de agentes, editores e revisores](docs/02-GOVERNANCA-DE-AGENTES.md)
 - [Empresas, módulos e isolamento de dados](docs/03-MULTIEMPRESA-E-MODULOS.md)
+- [Catálogo inicial de agentes](docs/04-CATALOGO-INICIAL-DE-AGENTES.md)
 
 ## Princípios
 - Plataforma independente de uma única empresa ou segmento.
